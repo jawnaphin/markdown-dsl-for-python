@@ -67,3 +67,7 @@ def java( string ):
 
 def p ( string ):
 	return " " * 4 + string;
+
+def hr ():
+	return "-" * 10;
+

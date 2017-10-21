@@ -66,8 +66,8 @@ def java( string ):
 	return code_with_highlighting(string, "java")
 
 def p ( string ):
-	return " " * 4 + string;
+	return " " * 4 + string
 
 def hr ():
-	return "-" * 10;
+	return "-" * 10
 

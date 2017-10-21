@@ -71,3 +71,5 @@ def p ( string ):
 def hr ():
 	return "-" * 10
 
+def link ( text , link ):
+	return "[" + text + "]" + "(" + link + ")"
